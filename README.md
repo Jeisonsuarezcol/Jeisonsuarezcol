@@ -19,7 +19,7 @@ I have a background in areas related to data science, and I master tools such as
   - Scikit-learn
 
 
-## Contact me
+## Contact
 
 ✉️ E-mail: jeisonsuarezcol@gmail.com 
 💻 [LinkedIn](https://www.linkedin.com/in/jeison-su%C3%A1rez-bbb753266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9NHzAq8HS5CvDyMYco%2BbBw%3D%3D)
